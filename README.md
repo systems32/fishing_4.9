@@ -1,1 +1,2 @@
-test
+1. The use of super() is used when we need to change something with the parent consutctor instead of typing out a new constructor. On the other hand using the keyword super allows us to acess variables of a parent class. 
+2. You should use super when you need to access the variable of a parent class, this is becasue it allows you to reuse variables across different classes without redefining, you can just create a subclass.
